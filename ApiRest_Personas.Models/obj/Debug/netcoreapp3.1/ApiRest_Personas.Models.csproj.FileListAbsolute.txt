@@ -1,0 +1,8 @@
+D:\Proyectos\Gestamp\ApiRest_Personas\ApiRest_Personas.Models\bin\Debug\netcoreapp3.1\ApiRest_Personas.Models.deps.json
+D:\Proyectos\Gestamp\ApiRest_Personas\ApiRest_Personas.Models\bin\Debug\netcoreapp3.1\ApiRest_Personas.Models.dll
+D:\Proyectos\Gestamp\ApiRest_Personas\ApiRest_Personas.Models\bin\Debug\netcoreapp3.1\ApiRest_Personas.Models.pdb
+D:\Proyectos\Gestamp\ApiRest_Personas\ApiRest_Personas.Models\obj\Debug\netcoreapp3.1\ApiRest_Personas.Models.csprojAssemblyReference.cache
+D:\Proyectos\Gestamp\ApiRest_Personas\ApiRest_Personas.Models\obj\Debug\netcoreapp3.1\ApiRest_Personas.Models.AssemblyInfoInputs.cache
+D:\Proyectos\Gestamp\ApiRest_Personas\ApiRest_Personas.Models\obj\Debug\netcoreapp3.1\ApiRest_Personas.Models.AssemblyInfo.cs
+D:\Proyectos\Gestamp\ApiRest_Personas\ApiRest_Personas.Models\obj\Debug\netcoreapp3.1\ApiRest_Personas.Models.dll
+D:\Proyectos\Gestamp\ApiRest_Personas\ApiRest_Personas.Models\obj\Debug\netcoreapp3.1\ApiRest_Personas.Models.pdb
